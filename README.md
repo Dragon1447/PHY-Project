@@ -18,19 +18,19 @@
 
 # อุปกรณ์
 - Arduino Uno
-<img src="https://th.bing.com/th/id/OIP.RE8gsTJBb2sUcCktlTLL8QHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.RE8gsTJBb2sUcCktlTLL8QHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="150px">
 
 -LCD I2C 16*2
-<img src="https://th.bing.com/th/id/OIP.SZrYuqC8a1r-tCWTmXfUFAHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.SZrYuqC8a1r-tCWTmXfUFAHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="150px">
 
 -Motor Servo
-<img src="https://th.bing.com/th/id/OIP.BrmTWEtvFdkClvT_IttNDwHaFY?pid=ImgDet&rs=1">
+<img src="https://th.bing.com/th/id/OIP.BrmTWEtvFdkClvT_IttNDwHaFY?pid=ImgDet&rs=1" width="150px">
 
 -Keypad 4*4
-<img src="https://th.bing.com/th/id/OIP.VWumn29OrkSsyclqevtCAwHaHa?w=215&h=215&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.VWumn29OrkSsyclqevtCAwHaHa?w=215&h=215&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="150px">
 
 -Jumper Wires
-<img src="https://th.bing.com/th/id/OIP.LyHBNZGyBW_ynUoJXjUhuwHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.LyHBNZGyBW_ynUoJXjUhuwHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="150px">
 
 # หลักการทำงาน
 1. ตอนเริ่มต้นหน้าจอ LCD จะโชว์ให้ใส่Password
